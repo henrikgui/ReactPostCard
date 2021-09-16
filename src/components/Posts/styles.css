@@ -1,0 +1,5 @@
+.posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 2fr));
+  gap: 30px;border-color: rgb(88, 42, 148);
+}

@@ -1,0 +1,16 @@
+.post img {
+  max-width: 100%;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.post-content {
+  padding: 30px;
+}
+.post {
+  background: rgb(255, 255, 255);
+  transition: transform 200ms ease-in-out;
+  border-radius: 10px;
+}
+.post:hover {
+  transform: scale(1.05);
+}
